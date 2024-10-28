@@ -1,10 +1,10 @@
 This is my Python project for a **School Management System**, developed during my second year of Computer Science at TU Dublin. 
 
-### Project Overview
+# Project Overview
 
 The system utilizes object-oriented programming principles to effectively manage student administration across multiple subjects, including Math, History, and English. 
 
-### Key Features:
+## Key Features:
 
 - **CRUD Operations:** Create, Read, Update, and Delete functionalities for managing student records.
 - **Grade Computation:** Automatic calculation of final grades based on student performance.
